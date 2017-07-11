@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/KoC-Demos-master/Asteroids Demo/Asteroids Demo.iml" filepath="$PROJECT_DIR$/KoC-Demos-master/Asteroids Demo/Asteroids Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KoC-Demos-master/JPanel Workshop/JPanel Workshop.iml" filepath="$PROJECT_DIR$/KoC-Demos-master/JPanel Workshop/JPanel Workshop.iml" />
+    </modules>
+  </component>
+</project>
